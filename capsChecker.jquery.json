@@ -1,0 +1,20 @@
+{
+  "name": "capsChecker",
+  "title": "jquery.capsChecker",
+  "description": "jquery.capsChecker is a jQuery plugin to check whether caps lock is turned on. It is the only plugin of its kind, which can recognize caps lock on numbers. That's important for users with standard German keyboard layout.",
+  "keywords": 
+  [
+	"caps",
+    "caps lock",
+	"forms",
+	"input"
+  ],
+  "version": "1.0.0.0",
+  "author": {
+	"name": "Pavel Azanov"  
+  },  
+  "bugs": "https://github.com/azanov/jquery.capsChecker/issues",
+  "homepage": "https://github.com/azanov/jquery.capsChecker",  
+  "docs": "https://github.com/azanov/jquery.capsChecker",
+  "dependencies": {    "jquery": ">=1.7"  }
+ }
