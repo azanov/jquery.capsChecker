@@ -5,7 +5,7 @@
   "keywords": 
   [
 	"caps",
-    "caps lock",
+    "capslock",
 	"form",
 	"ui",
 	"forms",
@@ -15,6 +15,10 @@
   "author": {
 	"name": "Pavel Azanov"  
   },  
+  "licenses": [{
+		"type": "Apache-2.0",
+		"url": "http://opensource.org/licenses/Apache-2.0"    
+  }],
   "bugs": "https://github.com/azanov/jquery.capsChecker/issues",
   "homepage": "https://github.com/azanov/jquery.capsChecker",  
   "docs": "https://github.com/azanov/jquery.capsChecker",
